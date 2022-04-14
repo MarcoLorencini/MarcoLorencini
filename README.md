@@ -35,5 +35,10 @@
  
   ![Snake animation](https://github.com/MarcoLorencini/MarcoLorencini/blob/output/github-contribution-grid-snake.svg)
  
- <img align="center" alt="build" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+  
+  
+ ##
+ <img align="center" width="140" height="30" alt="build" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+  
+ ##
 </div>
